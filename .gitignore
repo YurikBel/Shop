@@ -1,0 +1,11 @@
+/snshop/settings.py
+/accounts/__pycache__/*.pyc
+/accounts/migrations/__pycache__/*.pyc
+/catalog/__pycache__/*.pyc
+/catalog/migrations/__pycache__/*.pyc
+/cms/__pycache__/*.pyc
+/cms/migrations/__pycache__/*.pyc
+/cms/templatetags/__pycache__/*.pyc
+/mainpage/__pycache__/*.pyc
+/mainpage/migrations/__pycache__/*.pyc
+/snshop/__pycache__/*.pyc
